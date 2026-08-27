@@ -1,2 +1,2 @@
 # ksrweb
-training of html in simple progaram
+training of html in simple website
